@@ -1,0 +1,101 @@
+﻿Rank,Company,Market Cap,Price,Country
+1,Microsoft,$3.067 T,$412.78,USA
+2,Apple,$2.660 T,$172.28,USA
+3,NVIDIA,$2.265 T,$906.01,USA
+4,Amazon,$1.824 T,$175.68,USA
+5,Google,$1.723 T,$139.26,USA
+6,Facebook,$1.262 T,$495.16,USA
+7,TSMC,$754.34 B,$145.43,Taiwan
+8,Broadcom,$594.39 B,"$1,283",USA
+9,Tesla,$567.46 B,$178.18,USA
+10,ASML,$402.67 B,$971.64,Netherlands
+11,Samsung,$373.73 B,$55.96,S. Korea
+12,Oracle,$349.30 B,$127.07,USA
+13,Tencent,$348.26 B,$36.91,China
+14,AMD,$323.22 B,$200.04,USA
+15,Salesforce,$296.96 B,$306.15,USA
+16,Netflix,$262.18 B,$605.85,USA
+17,Adobe,$258.39 B,$570.99,USA
+18,SAP,$230.19 B,$193.23,Germany
+19,Cisco,$202.92 B,$50.12,USA
+20,QUALCOMM,$192.17 B,$172.20,USA
+21,Alibaba,$190.86 B,$76.35,China
+22,Intel,$190.47 B,$45.05,USA
+23,Intuit,$183.83 B,$656.60,USA
+24,IBM,$181.99 B,$198.53,USA
+25,Applied Materials,$167.19 B,$201.22,USA
+26,Uber,$161.93 B,$77.98,USA
+27,ServiceNow,$160.05 B,$780.78,USA
+28,Texas Instruments,$159.06 B,$174.93,USA
+29,Pinduoduo,$157.80 B,$118.78,China
+30,Schneider Electric,$130.32 B,$229.47,France
+31,Arm Holdings,$129.31 B,$125.78,UK
+32,Lam Research,$123.24 B,$940.09,USA
+33,Booking.com,$120.63 B,"$3,530",USA
+34,Keyence,$114.95 B,$473.98,Japan
+35,Tokyo Electron,$114.60 B,$247.57,Japan
+36,Sony,$107.62 B,$87.71,Japan
+37,Micron Technology,$105.60 B,$95.66,USA
+38,Airbnb,$105.33 B,$165.13,USA
+39,Automatic Data Processing,$100.68 B,$245.10,USA
+40,Analog Devices,$98.34 B,$198.32,USA
+41,Shopify,$98.05 B,$76.18,Canada
+42,KLA,$93.55 B,$691.84,USA
+43,Palo Alto Networks,$91.95 B,$284.60,USA
+44,Fiserv,$89.07 B,$150.87,USA
+45,Synopsys,$87.20 B,$571.69,USA
+46,SK Hynix,$87.10 B,$126.49,S. Korea
+47,Arista Networks,$86.20 B,$275.75,USA
+48,Equinix,$84.77 B,$895.94,USA
+49,Cadence Design Systems,$84.23 B,$309.42,USA
+50,Dell,$81.16 B,$114.91,USA
+51,CrowdStrike,$80.29 B,$331.96,USA
+52,MercadoLibre,$78.57 B,"$1,550",Argentina
+53,Meituan,$74.43 B,$11.94,China
+54,Workday,$71.28 B,$269.82,USA
+55,NetEase,$70.11 B,$108.19,China
+56,NXP Semiconductors,$65.72 B,$256.27,Netherlands
+57,Nintendo,$64.96 B,$55.61,Japan
+58,Supermicro,$64.66 B,"$1,156",USA
+59,PayPal,$64.54 B,$60.22,USA
+60,Marvell Technology Group,$62.26 B,$72.03,USA
+61,Coinbase,$62.05 B,$256.15,USA
+62,MediaTek,$61.62 B,$38.71,Taiwan
+63,Dassault Systèmes,$60.69 B,$46.22,France
+64,Roper Technologies,$59.66 B,$557.47,USA
+65,Constellation Software,$59.48 B,"$2,807",Canada
+66,Autodesk,$56.08 B,$262.20,USA
+67,Atlassian,$55.97 B,$215.77,Australia
+68,Palantir,$55.11 B,$24.91,USA
+69,Fortinet,$54.45 B,$71.37,USA
+70,Snowflake,$53.06 B,$161.40,USA
+71,DoorDash,$52.72 B,$130.50,USA
+72,Foxconn,$52.55 B,$3.79,Taiwan
+73,Spotify,$51.18 B,$258.06,Sweden
+74,Adyen,$50.38 B,"$1,622",Netherlands
+75,Infineon,$49.91 B,$38.29,Germany
+76,Block,$49.76 B,$80.82,USA
+77,Microchip Technology,$49.02 B,$90.72,USA
+78,Xiaomi,$48.07 B,$1.91,China
+79,IQVIA,$47.23 B,$259.50,USA
+80,STMicroelectronics,$43.83 B,$48.55,Switzerland
+81,TE Connectivity,$43.51 B,$140.93,Switzerland
+82,JD.COM,$43.18 B,$27.52,China
+83,Kaspi.kz,$41.29 B,$103.90,Kazakhstan
+84,Fidelity National Information Services,$40.30 B,$69.92,USA
+85,Datadog,$40.29 B,$121.43,USA
+86,The Trade Desk,$39.41 B,$80.62,USA
+87,Wolters Kluwer,$38.42 B,$158.04,Netherlands
+88,Veeva Systems,$37.13 B,$230.64,USA
+89,Baidu,$36.74 B,$105.12,China
+90,Disco Corp.,$36.68 B,$338.64,Japan
+91,Electronic Arts,$36.46 B,$136.39,USA
+92,Murata,$36.26 B,$19.20,Japan
+93,Monolithic Power Systems,$35.68 B,$733.28,USA
+94,CoStar Group,$35.51 B,$86.97,USA
+95,Coupang,$35.07 B,$19.56,S. Korea
+96,ON Semiconductor,$34.98 B,$81.88,USA
+97,Global Payments,$34.06 B,$132.04,USA
+98,Garena,$33.36 B,$58.67,Singapore
+99,Advantest,$33.33 B,$45.15,Japan
+100,FICO,$32.67 B,"$1,315",USA

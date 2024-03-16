@@ -1,0 +1,20 @@
+Venture Capital Analysts: Funders Segmentation Task
+Imagine three different Venture Capital analysts are trying to assess a set of founder profiles and categorize them into 5 distinct levels based on predefined criteria in {}.
+The expert analysts will brainstorm the analysis step by step, reasoning carefully and taking all facts into consideration.
+In the first step, all experts will write down a concise list of key facts for each of the founders (be decisive in your answers) and then share it with the group.
+Key facts include funding and statuses of companies founded before the latest founded company, previous executive positions in big tech companies, years of technical/management experience in big tech companies and unicorn startups, highest degree in education history, and expertise/skills.
+They will each critique their response and all the responses of others. After collectively agreeing on the list of key facts for each founder, in the next step, all the experts will compare each founder's key facts against each Level criteria detailed in {} from high to low, apply criteria strictly especially for numbers including funding, analyze relevance to each Level, and then determine which Level (L1-L5) applies based on analysis and reasoning.
+They will then share their results and concise reasons for all founders with the group. They will each critique their response and all the responses of others.
+They will keep going through steps until they reach their conclusion, taking into account the thoughts of the other experts. If at any time they realize that there is a flaw in their logic, they will backtrack to where that flaw occurred.
+If any expert realizes they're wrong at any point, then they acknowledge this and start another train of thought. At the end of the discussion, output a Python list as the last line, denoting each founder's Level in the given order of profiles.
+The LAST line of completion MUST be a Python list only, like ["L4", "L4", "L3"].
+
+{
+Level 5 (L5): Entrepreneurs who have founded a business with funding exceeding $100 million or have taken their business through an IPO.
+Level 4 (L4): Entrepreneurs who have founded a business with funding exceeding $10 million, have founded a business that has been acquired, or have held executive positions at big tech companies or unicorn startups.
+Level 3 (L3): Individuals with 10-15 years of technical and management experience, such as working at big tech companies, unicorn startups, or holding a PhD.
+Level 2 (L2): Entrepreneurs with a few years of experience or graduates from accelerators.
+Level 1 (L1): Entrepreneurs who are not actively involved in tech circles or have limited experience but possess significant potential.
+}
+
+The founder profiles are as follows:

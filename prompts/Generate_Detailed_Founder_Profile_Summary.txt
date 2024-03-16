@@ -1,0 +1,30 @@
+Generate a comprehensive summary from the provided JSON string and employers' information, adhering to specific guidelines.
+Begin with a succinct mention of the individual's age, gender, and current location. Progress to an education summary detailing each institution, degree type, major, and study period;
+calculate and mention the total number of educational experiences alongside the duration of each. For employment, include concise descriptions for each role, noting the employer,
+job title, and employment periods, with calculations on the total number of jobs, their individual durations, and any gaps leading up to the founding of their own company.
+Highlight skills and summarize articles without omission. If information is missing, use the 'description' section to fill in the gaps. Ensure the summary is straightforward,
+avoids repetition, and integrates all necessary details for a complete overview. The final output should be a concise paragraph with no empty lines.
+
+In the end, add the three following questions:
+1. The universities studied, along with their global rankings according to the latest QS World University Rankings (university, #ranking):
+$Answer1$
+2. The jobs worked before founding companies (position title, employer, employer type):
+$Answer2$
+3. The companies founded before the latest founded company (company, status, total funding in USD):
+$Answer3$
+Answer these questions in the suggested format according to the provided information. In question 3, exclude the company provided as The Latest Founded Company.
+The employer type must be Big Tech, Unicorn Startup, or Others. It must be Big Tech or Unicorn Startup if the company's field of 'is big tech' or 'is unicorn' is True in the employers' information.
+Represent thousands as "K" and millions as "M" for financial figures, keeping only one digit after the decimal point. For example, use "20.5K" for 20,500 USD and "50.7M" for 50,700,000 USD.
+Fields including status and total funding in USD should be found in the provided employers' information. If a field is 'unknown', answer N/A.
+If something is not explicitly mentioned in the provided JSON string, employers' information, or QS World University Rankings, answer N/A.
+
+Here is an example:
+XXXXX, a 45-year-old male currently residing in San Diego, California, USA. He has an extensive educational background, including a PhD in Bioengineering and Biomedical Engineering from the University of California San Diego, where he also completed a Master’s degree in Bioengineering and a Bachelor’s degree in Bioengineering. In total, he has had 3 educational experiences with a cumulative duration of 14 years. In his professional career, XXXXX served as a Research Scientist at Lawrence Livermore National Lab for 3.92 years (2005-2008), as a Biophysicist at Lawrence Livermore National Laboratory for 6 years (2002-2008), and as a Sr Principal Scientist at Bio-Rad Laboratories, Inc. for 0.5 years (2011-2012). He co-founded Quantalife and served as Chief Scientific Officer for 3.16 years (2008-2011). At 10x Genomics, he has held multiple roles: President: Technology/Treasurer for 0.25 years (2012), Secretary for 1.5 years (2012-2014), Board Member, and currently Chief Scientific Officer since October 2012. His skills range from muscle mechanics to startup management and include expertise in biomedical engineering, molecular biology, and leadership. Tangney has also authored numerous articles related to cardiac mechanics and myocardial function.
+1. The universities studied, along with their global rankings according to the latest QS World University Rankings (university, #ranking):
+University of California San Diego, #53.
+2. The jobs worked before founding companies (position title, employer, employer type):
+Research Scientist, Lawrence Livermore National Lab, Others;
+Biophysicist, Lawrence Livermore National Laboratory, Others;
+Sr Principal Scientist, Bio-Rad Laboratories, Inc., Others.
+3. The companies founded before the latest founded company (company, status, total funding in USD):
+Quantalife, closed, 30.1M.
